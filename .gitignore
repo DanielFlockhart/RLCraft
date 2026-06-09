@@ -1,2 +1,7 @@
 **/artifacts/*
 !**/artifacts/.gitkeep
+**/node_modules/
+**/.next/
+**/out/
+**/.vercel/
+**/.next-dev-*.log

@@ -16,6 +16,9 @@
     "game:train:wood:managed": "npm --prefix game-completion-rl run train:wood:managed",
     "game:train:block:managed": "npm --prefix game-completion-rl run train:block:managed",
     "game:train:movement:managed": "npm --prefix game-completion-rl run train:movement:managed",
-    "game:smoke": "npm --prefix game-completion-rl run smoke"
+    "game:smoke": "npm --prefix game-completion-rl run smoke",
+    "dashboard": "npm --prefix dashboard run dev",
+    "dashboard:build": "npm --prefix dashboard run build",
+    "dashboard:start": "npm --prefix dashboard run start"
   }
 }

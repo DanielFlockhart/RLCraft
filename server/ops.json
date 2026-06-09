@@ -30,14 +30,14 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "02927935-e0e3-3679-9155-d4ed118df739",
-    "name": "Agent12_Gen1",
+    "uuid": "4b2a3f73-c3e3-3482-97ce-72a0911118f4",
+    "name": "Agent3_Gen1",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "4b2a3f73-c3e3-3482-97ce-72a0911118f4",
-    "name": "Agent3_Gen1",
+    "uuid": "02927935-e0e3-3679-9155-d4ed118df739",
+    "name": "Agent12_Gen1",
     "level": 4,
     "bypassesPlayerLimit": false
   },

@@ -1,0 +1,21 @@
+{
+  "name": "ai-minecraft-hub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "server:start": "./server/start_server.sh",
+    "pvp": "./pvp/run_pvp.sh",
+    "pvp:start": "npm --prefix pvp run start:pvp",
+    "distance:start": "npm --prefix pvp run start:distance",
+    "game:start": "npm --prefix game-completion-rl start",
+    "game:once": "npm --prefix game-completion-rl run once",
+    "game:managed": "npm --prefix game-completion-rl run start:managed-server",
+    "game:train:wood": "npm --prefix game-completion-rl run train:wood",
+    "game:train:block": "npm --prefix game-completion-rl run train:block",
+    "game:train:movement": "npm --prefix game-completion-rl run train:movement",
+    "game:train:wood:managed": "npm --prefix game-completion-rl run train:wood:managed",
+    "game:train:block:managed": "npm --prefix game-completion-rl run train:block:managed",
+    "game:train:movement:managed": "npm --prefix game-completion-rl run train:movement:managed",
+    "game:smoke": "npm --prefix game-completion-rl run smoke"
+  }
+}

@@ -1,0 +1,633 @@
+Minecraft 1.18.1 Completion Guide
+=================================
+
+This guide breaks down each individual step for completing Minecraft in version 1.18.1.
+
+"Completing the game" usually means defeating the Ender Dragon and entering the End exit portal to see the credits.
+
+This route is written for a safe, casual Survival playthrough rather than a risky speedrun.
+
+
+0. Start the world correctly
+----------------------------
+
+1. Create or load a Survival world.
+2. Play on Easy, Normal, or Hard.
+3. Do not use Peaceful if your goal is to complete the game normally, because you need hostile mob drops like blaze rods.
+4. Optional but useful: enable coordinates.
+5. In Java Edition, press F3 to view coordinates.
+6. In Bedrock Edition, enable coordinates in world settings.
+7. Your final goal chain is:
+
+   Overworld gear -> Nether portal -> Nether fortress -> blaze rods -> ender pearls -> Eyes of Ender -> stronghold -> End portal -> Ender Dragon fight -> credits
+
+
+1. Survive the first day
+------------------------
+
+8. Punch a tree until you get at least 4 logs.
+9. Open your inventory and turn logs into wooden planks.
+10. Craft a crafting table.
+11. Craft sticks.
+12. Craft a wooden pickaxe.
+13. Find exposed stone or dig into a hillside.
+14. Mine at least 11 cobblestone.
+15. Craft these stone tools:
+
+    - Stone pickaxe
+    - Stone axe
+    - Stone sword
+    - Furnace
+
+16. Kill passive animals such as cows, pigs, sheep, or chickens for food.
+17. If you find sheep, collect 3 wool of the same color.
+18. Craft a bed using:
+
+    - 3 wool
+    - 3 planks
+
+19. Collect extra wood. Aim for around 20-30 logs before leaving your starting area.
+20. Find coal, or make charcoal by smelting logs in a furnace.
+21. Craft torches.
+22. Before night, either sleep in a bed, build a small shelter, or stay underground and mine safely.
+
+
+2. Get basic supplies
+---------------------
+
+23. Keep collecting food until you have at least one stack or near-stack of cooked food.
+24. Smelt raw food in a furnace.
+25. Collect more cobblestone.
+26. Craft a second furnace if needed.
+27. Make more torches.
+28. Collect some dirt, cobblestone, or deepslate blocks. You will later need blocks for building in the Nether and the End.
+29. Look for a village if one is nearby.
+30. Villages can provide beds, food, hay bales, iron golems, chests, and villagers for trading.
+31. If you find hay bales, break them and craft them into wheat, then bread.
+32. If you find a village, take a few beds. Beds are useful for sleeping and can also be used later as an optional dragon-fighting tactic.
+
+
+3. Get iron
+-----------
+
+33. Look for a cave, mountain, or exposed stone area.
+34. Mine iron ore when you find it.
+35. In Minecraft 1.18.1, iron is common in caves and also appears heavily in mountains.
+36. Smelt raw iron in a furnace.
+37. Your first iron item should usually be a shield.
+38. Shield recipe:
+
+    - 1 iron ingot
+    - 6 planks
+
+39. Equip the shield in your off-hand.
+40. Make an iron pickaxe.
+41. Make a bucket.
+42. Fill the bucket with water.
+43. Make iron armor when you have enough iron.
+44. Recommended minimum iron gear:
+
+    - Shield
+    - Iron pickaxe
+    - Water bucket
+    - Iron sword or axe
+    - At least some iron armor
+
+45. Ideal safe gear:
+
+    - Full iron armor
+    - Iron sword
+    - Iron pickaxe
+    - Shield
+    - Water bucket
+    - Bow
+    - Food
+    - Torches
+
+
+4. Mine for better gear
+-----------------------
+
+46. Decide whether you want to beat the game with iron or get diamonds first.
+47. You can beat Minecraft with iron gear, but diamonds make it safer.
+48. In version 1.18.1, the best diamond levels are deep underground, commonly around Y = -58.
+49. Dig down safely using a staircase. Never dig straight down.
+50. Bring food, torches, pickaxes, a shield, a water bucket, and blocks.
+51. Mine carefully around lava.
+52. Use your water bucket to turn lava into obsidian or to save yourself from falls.
+53. Mine diamonds with an iron pickaxe or better.
+54. If you get at least 3 diamonds, craft a diamond pickaxe.
+55. If you get more diamonds, consider crafting:
+
+    - Diamond sword
+    - Diamond chestplate
+    - Diamond boots
+    - Enchanting table, if you also have obsidian and a book
+
+56. Diamond armor is helpful but not required.
+
+
+5. Prepare for the Nether
+-------------------------
+
+57. To enter the Nether, you need a Nether portal.
+58. A Nether portal frame requires at least 10 obsidian.
+59. You can get obsidian in two main ways:
+
+    - Mine obsidian with a diamond pickaxe
+    - Build a portal using lava and water
+
+60. If using a diamond pickaxe, find lava and pour water over it to create obsidian.
+61. Mine at least 10 obsidian.
+62. Build a portal frame:
+
+    - 4 blocks wide
+    - 5 blocks tall
+    - Corners optional
+
+63. Craft or find flint and steel.
+64. Flint and steel recipe:
+
+    - 1 iron ingot
+    - 1 flint
+
+65. Light the portal with flint and steel.
+66. Before entering the Nether, prepare carefully.
+
+
+6. Nether preparation checklist
+-------------------------------
+
+Bring these before going into the Nether:
+
+67. Full iron armor or better.
+68. Shield.
+69. Iron or diamond sword.
+70. Bow and arrows, if possible.
+71. Pickaxe.
+72. At least one stack of blocks.
+73. At least one stack of food.
+74. Torches, though they are less useful in the Nether.
+75. Gold armor piece, ideally gold boots.
+76. Flint and steel.
+77. Crafting table.
+78. Optional: spare iron.
+79. Optional: boat, useful for trapping Endermen later.
+80. Optional: extra obsidian, in case you need an emergency portal.
+81. Wear at least one piece of gold armor so Piglins do not attack you immediately.
+
+
+7. Enter the Nether
+-------------------
+
+82. Step through the portal.
+83. Immediately check your surroundings.
+84. Protect the portal area with blocks if it is exposed.
+85. Mark the coordinates of your portal.
+86. Build a small shelter around your Nether portal if needed.
+87. Avoid falling into lava.
+88. Watch for Ghasts, Piglins, Hoglins, Skeletons, and lava pockets.
+89. Your main Nether goal is to find a Nether Fortress.
+90. A secondary goal is to get ender pearls, usually from Piglin bartering or killing Endermen.
+
+
+8. Find a Nether Fortress
+-------------------------
+
+91. Explore carefully from your portal.
+92. Use blocks to bridge over gaps, but crouch while bridging.
+93. Look for a large dark red brick structure. That is a Nether Fortress.
+94. Nether Fortresses often generate in long bridge-like sections.
+95. Keep track of your path so you can return to your portal.
+96. Use torches, blocks, or coordinates to mark where you have been.
+97. Avoid fighting too many mobs at once.
+98. When you find the fortress, enter carefully.
+
+
+9. Get blaze rods
+-----------------
+
+99. Inside the Nether Fortress, look for Blazes.
+100. Blazes are yellow flying mobs that shoot fireballs.
+101. Use your shield and cover to block their fire attacks.
+102. A bow can kill Blazes from a distance.
+103. A sword or axe works if you can safely get close.
+104. Look for a Blaze spawner. It looks like a cage with a spinning Blaze inside.
+105. Build partial walls around the Blaze spawner area to make farming safer.
+106. Kill Blazes until you collect blaze rods.
+107. You need blaze rods to make blaze powder.
+108. Each blaze rod crafts into 2 blaze powder.
+109. Each Eye of Ender requires:
+
+     - 1 ender pearl
+     - 1 blaze powder
+
+110. The absolute minimum for a full empty End portal is 12 Eyes of Ender.
+111. That means 12 blaze powder, which means 6 blaze rods.
+112. However, Eyes of Ender can break when thrown, and some may be needed to locate the stronghold.
+113. A safer target is 8-10 blaze rods.
+114. If you want a brewing stand, collect at least one extra blaze rod.
+115. Leave the fortress once you have enough blaze rods.
+
+
+10. Get ender pearls
+--------------------
+
+You need ender pearls to craft Eyes of Ender.
+
+Method A: Kill Endermen
+
+116. Endermen spawn in the Overworld at night, in caves, in the Nether, and heavily in Warped Forest biomes.
+117. Look at an Enderman to make it angry.
+118. Stand under a 2-block-high roof so it cannot reach you easily.
+119. Hit it with your sword or axe.
+120. Repeat until it drops an ender pearl.
+121. This is slower but straightforward.
+
+Method B: Piglin bartering
+
+122. Mine gold ore or Nether gold ore.
+123. Smelt gold ore if necessary.
+124. Craft gold ingots.
+125. Find Piglins in the Nether.
+126. Wear one piece of gold armor so they are not hostile by default.
+127. Drop gold ingots near Piglins.
+128. They may give random items in exchange.
+129. One possible barter result is ender pearls.
+130. This method can be faster if you have lots of gold.
+131. Be careful: Piglin Brutes in Bastions are always hostile and are very dangerous.
+
+Method C: Villager trading
+
+132. Find or create a Cleric villager.
+133. A Cleric can eventually sell ender pearls.
+134. This requires villager leveling and emeralds, so it is slower but safe.
+135. For most playthroughs, killing Endermen or Piglin bartering is simpler.
+
+
+11. Craft Eyes of Ender
+-----------------------
+
+136. Return safely to the Overworld.
+137. Craft blaze rods into blaze powder.
+138. Combine:
+
+     - 1 blaze powder
+     - 1 ender pearl
+
+139. This creates 1 Eye of Ender.
+140. Aim to have at least 12 Eyes of Ender.
+141. A safer number is 14-18 Eyes of Ender.
+142. Bring extra ender pearls if you have them.
+
+
+12. Optional but strongly recommended upgrades
+---------------------------------------------
+
+Enchanting
+
+143. Craft an enchanting table if you have:
+
+     - 4 obsidian
+     - 2 diamonds
+     - 1 book
+
+144. Books require paper and leather.
+145. Paper comes from sugar cane.
+146. Leather comes from cows, horses, llamas, or other sources.
+147. Place bookshelves around the enchanting table for better enchantments.
+148. Useful enchantments include:
+
+     - Protection on armor
+     - Feather Falling on boots
+     - Power on bow
+     - Sharpness on sword
+     - Unbreaking
+     - Efficiency on pickaxe
+
+149. Feather Falling is especially useful because the dragon can launch you into the air.
+
+Brewing
+
+150. Craft a brewing stand using:
+
+     - 1 blaze rod
+     - 3 cobblestone or blackstone
+
+151. Brew helpful potions if you want extra safety.
+152. Useful potions include:
+
+     - Slow Falling
+     - Strength
+     - Regeneration
+     - Healing
+     - Fire Resistance
+
+153. Slow Falling is one of the best potions for the Ender Dragon fight.
+154. To make Slow Falling, you need a phantom membrane.
+155. Phantoms spawn if you do not sleep for several in-game days.
+156. Kill phantoms and collect phantom membranes.
+157. Brew Slow Falling using:
+
+     - Water bottle
+     - Nether wart
+     - Phantom membrane
+     - Optional redstone to extend duration
+
+Golden apples
+
+158. Mine gold.
+159. Collect apples by breaking oak or dark oak leaves.
+160. Craft golden apples with:
+
+     - 1 apple
+     - 8 gold ingots
+
+161. Bring 2-5 golden apples if possible.
+
+
+13. Final stronghold preparation checklist
+------------------------------------------
+
+Before searching for the stronghold, bring:
+
+162. Eyes of Ender, ideally 14-18.
+163. Full iron armor or better.
+164. Shield.
+165. Sword or axe.
+166. Bow.
+167. At least 1 stack of arrows, or an Infinity bow.
+168. Pickaxe.
+169. Water bucket.
+170. At least 2 stacks of blocks.
+171. Food.
+172. Torches.
+173. Bed, for setting spawn near the stronghold.
+174. Crafting table.
+175. Furnace.
+176. Extra wood.
+177. Optional: Ender pearls.
+178. Optional: Slow Falling potions.
+179. Optional: golden apples.
+180. Optional: carved pumpkin.
+181. Optional: spare armor or shield.
+
+
+14. Locate the stronghold
+-------------------------
+
+182. Go to an open area in the Overworld.
+183. Hold an Eye of Ender.
+184. Right-click or use it.
+185. The Eye will fly toward the nearest stronghold.
+186. Follow the direction it flies.
+187. Pick the Eye back up if it drops.
+188. Sometimes the Eye breaks. This is why you brought extras.
+189. Travel a few hundred blocks in the direction the Eye points.
+190. Throw another Eye.
+191. Repeat this process.
+192. When the Eye starts going downward or backward, you are close.
+193. Stand near the point where the Eye drops or dives.
+194. Dig down carefully using a staircase, not straight down.
+195. Listen for stone brick sounds, silverfish, or cave noises.
+196. Eventually, you should enter the stronghold.
+
+
+15. Explore the stronghold
+--------------------------
+
+197. Place torches to mark where you have been.
+198. Block off dangerous paths if needed.
+199. Watch for silverfish.
+200. Search for the End Portal Room.
+201. Strongholds are maze-like, so move systematically.
+202. Useful stronghold rooms include:
+
+     - Libraries
+     - Chests
+     - Staircases
+     - Corridors
+     - Fountains
+     - Jail rooms
+     - End Portal Room
+
+203. Libraries can contain books and enchanted books.
+204. The End Portal Room has:
+
+     - Lava below the portal
+     - A silverfish spawner
+     - 12 portal frame blocks
+
+205. When you find the portal room, kill nearby silverfish.
+206. Break or disable the silverfish spawner.
+207. Block off the lava if needed.
+208. Place a bed somewhere safe near the portal room.
+209. Sleep in the bed or right-click it to set your spawn.
+210. Place a chest nearby if you want to store extra supplies.
+
+
+16. Activate the End Portal
+---------------------------
+
+211. Look at the End Portal frames.
+212. Some frames may already contain Eyes of Ender.
+213. Fill the empty frames with Eyes of Ender.
+214. There are 12 frames total.
+215. Once all frames are filled, the End Portal activates.
+216. The portal appears as a dark starry square.
+217. Do not jump in until you are fully ready.
+
+
+17. Final End fight checklist
+-----------------------------
+
+Before entering the End, make sure you have:
+
+218. Armor equipped.
+219. Shield equipped.
+220. Sword or axe.
+221. Bow and arrows.
+222. Pickaxe.
+223. Water bucket.
+224. Blocks.
+225. Food.
+226. Slow Falling potion if available.
+227. Golden apples if available.
+228. Ender pearls if available.
+229. Carved pumpkin if you want to avoid angering Endermen.
+230. Empty inventory space for loot is not necessary, but helpful.
+231. Set your spawn near the portal.
+232. Jump into the End Portal.
+
+
+18. Enter the End
+-----------------
+
+233. You will spawn on an obsidian platform.
+234. Sometimes the platform is away from the main End island.
+235. If you spawn away from the island, carefully bridge toward it.
+236. Crouch while bridging.
+237. If the platform is inside or under the island, dig upward or sideways carefully.
+238. Once on the main island, avoid looking directly at Endermen.
+239. Place water if Endermen attack you. Endermen avoid water.
+240. Your first goal is to destroy the End crystals.
+
+
+19. Understand the Ender Dragon fight
+-------------------------------------
+
+241. The dragon is healed by End crystals on top of obsidian pillars.
+242. You need to destroy the crystals first.
+243. Some crystals are exposed.
+244. Some crystals are protected by iron bars.
+245. The dragon flies around the island.
+246. The dragon periodically lands at the central bedrock fountain.
+247. When the dragon lands, you can attack it with melee weapons.
+248. The dragon can launch you into the air.
+249. This is why Slow Falling, Feather Falling, water buckets, or ender pearls are useful.
+
+
+20. Destroy the End crystals
+----------------------------
+
+250. Use your bow to shoot exposed End crystals.
+251. Aim carefully at the crystals on top of the obsidian pillars.
+252. When a crystal breaks, it explodes.
+253. Do not stand close to crystals when breaking them.
+254. For caged crystals, climb the obsidian pillar or pillar up with blocks.
+255. Bring blocks and your pickaxe.
+256. Break the iron bars around the crystal.
+257. Move away from the crystal.
+258. Shoot it or hit it from a safe distance.
+259. Climb down carefully.
+260. Repeat until all End crystals are destroyed.
+261. You can also use water to climb down safely.
+262. If the dragon knocks you off a tower, use:
+
+     - Water bucket
+     - Ender pearl
+     - Slow Falling
+     - Blocks
+     - Luck
+
+263. Once all crystals are destroyed, the dragon can no longer heal.
+
+
+21. Fight the Ender Dragon
+--------------------------
+
+264. Shoot the dragon with a bow while it flies.
+265. Watch its movement and lead your shots slightly.
+266. When the dragon lands at the center fountain, move in.
+267. Do not stand directly in front of its head for too long.
+268. Hit it with your sword or axe.
+269. Critical hits help if you can jump safely.
+270. Back away when the dragon prepares to leave.
+271. Avoid the purple dragon breath on the ground.
+272. Keep eating food to maintain health and saturation.
+273. Use golden apples if you get low.
+274. Use water if Endermen attack you.
+275. Repeat the cycle:
+
+     Shoot while flying -> melee while perched -> heal when needed
+
+276. Continue until the dragon reaches zero health.
+
+
+22. Defeat the dragon
+---------------------
+
+277. When the dragon dies, it flies to the center fountain.
+278. It explodes in a large death animation.
+279. It drops a huge amount of experience.
+280. The End exit portal activates at the center.
+281. A dragon egg appears on top of the portal structure.
+282. You have now beaten the main objective of Minecraft.
+
+
+23. Enter the exit portal
+-------------------------
+
+283. Walk into the End exit portal.
+284. You will see the Minecraft credits.
+285. After the credits, you return to your spawn point or bed.
+286. At this point, the game is considered completed.
+
+
+24. Optional: collect the dragon egg
+------------------------------------
+
+The dragon egg is a trophy. It is optional.
+
+287. Do not mine the dragon egg directly. It will teleport.
+288. Click or hit it once so it teleports to nearby End stone.
+289. Find where it teleported.
+290. Dig two blocks underneath it.
+291. Place a torch below the block the egg is sitting on.
+292. Break the block under the egg.
+293. The egg falls onto the torch and drops as an item.
+294. Pick up the dragon egg.
+
+
+25. Optional post-game goals
+----------------------------
+
+295. Look for the End gateway portal that appears near the main island.
+296. Throw an ender pearl into the gateway.
+297. This takes you to the outer End islands.
+298. Search for End Cities.
+299. Find an End Ship.
+300. Collect Elytra from the End Ship.
+301. Collect shulker shells from Shulkers.
+302. Craft shulker boxes.
+303. Return home using another gateway, or by entering the central End exit portal again.
+304. Upgrade your gear.
+305. Build farms.
+306. Respawn the dragon if desired using End crystals.
+
+
+Recommended minimum gear for a first-time safe completion
+---------------------------------------------------------
+
+For a comfortable Minecraft 1.18.1 dragon fight, aim for:
+
+- Full iron armor or better
+- Shield
+- Iron or diamond sword
+- Bow with at least 64 arrows
+- Iron or diamond pickaxe
+- Water bucket
+- 2 stacks of blocks
+- 1 stack of cooked food
+- 14-18 Eyes of Ender
+- A bed set near the End Portal
+- Optional but very helpful: Slow Falling potions
+- Optional: golden apples
+- Optional: Feather Falling boots
+
+
+Simplest objective summary
+--------------------------
+
+1. Get wood.
+2. Get stone tools.
+3. Get food.
+4. Get a bed.
+5. Get iron.
+6. Make shield, bucket, armor, and pickaxe.
+7. Get diamonds if you want safer gear.
+8. Build a Nether portal.
+9. Find a Nether Fortress.
+10. Kill Blazes.
+11. Collect blaze rods.
+12. Get ender pearls.
+13. Craft Eyes of Ender.
+14. Follow Eyes of Ender to the stronghold.
+15. Find the End Portal room.
+16. Fill the portal frames with Eyes of Ender.
+17. Enter the End.
+18. Destroy End crystals.
+19. Kill the Ender Dragon.
+20. Enter the exit portal.
+
+That is the full main-game completion route for Minecraft 1.18.1.

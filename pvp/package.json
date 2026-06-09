@@ -1,0 +1,19 @@
+{
+  "name": "evo-mineflayer-swarm-v7.2-neat",
+  "version": "7.2.0",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "EXPERIMENT=distance node src/index.js",
+    "start:distance": "EXPERIMENT=distance node src/index.js",
+    "start:pvp": "EXPERIMENT=pvp node src/index.js"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "chartjs-node-canvas": "^5.0.0",
+    "mineflayer": "^4.20.1",
+    "neat-javascript": "^1.0.1",
+    "rcon-client": "^4.2.3",
+    "vec3": "^0.1.10"
+  }
+}

@@ -1,0 +1,24 @@
+class Individual{
+  constructor(username){
+    this.username=username;
+    this.net=null;
+    this.maxDist=0;
+    this.fitness=0;
+    this.pvpWins=0;
+    this.pvpLosses=0;
+    this.pvpTies=0;
+    this.startPos=null;
+    this.ready=false;
+    this.startMoving=false;
+    this.bot=null;
+    this.controlInterval=null;
+    this.reconnectAttempts=0;
+    this.onDeath=null;
+    this.lastDamageDealt=0;
+    this.lastDamageTaken=0;
+    this.lastCloseDist=0;
+    this.lastResult=0;
+    this.pvpBreakdown=null;
+  }
+}
+module.exports=Individual;

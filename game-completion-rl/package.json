@@ -1,0 +1,25 @@
+{
+  "name": "game-completion-rl",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "once": "GENERATIONS=1 node src/index.js",
+    "start:managed-server": "START_SERVER=true node src/index.js",
+    "train:wood": "GENERATIONS=${GENERATIONS:-1000} TRAINING_TASK=wood_collection node src/index.js",
+    "train:block": "GENERATIONS=${GENERATIONS:-1000} TRAINING_TASK=block_collection node src/index.js",
+    "train:movement": "GENERATIONS=${GENERATIONS:-1000} TRAINING_TASK=movement node src/index.js",
+    "train:wood:managed": "GENERATIONS=${GENERATIONS:-1000} START_SERVER=true TRAINING_TASK=wood_collection node src/index.js",
+    "train:block:managed": "GENERATIONS=${GENERATIONS:-1000} START_SERVER=true TRAINING_TASK=block_collection node src/index.js",
+    "train:movement:managed": "GENERATIONS=${GENERATIONS:-1000} START_SERVER=true TRAINING_TASK=movement node src/index.js",
+    "smoke": "node src/smoke.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.1",
+    "neat-javascript": "^1.0.1",
+    "rcon-client": "^4.2.3",
+    "vec3": "^0.1.10"
+  }
+}

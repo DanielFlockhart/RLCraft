@@ -1,0 +1,302 @@
+[
+  {
+    "uuid": "f9349542-e51e-3bbe-a654-af5f8c41a650",
+    "name": "Agent2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "100e3cb1-8aba-3089-a87f-acf36c59ecdc",
+    "name": "Agent1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8fccbcaf-e6d3-33b6-9dae-d0483a6b7775",
+    "name": "Agent6_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9f576a4e-14d2-3cb2-975e-c071ff3ae7e9",
+    "name": "Agent32",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c89542f9-3d44-339b-9341-9d9b0b7e80c3",
+    "name": "Agent11_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "02927935-e0e3-3679-9155-d4ed118df739",
+    "name": "Agent12_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4b2a3f73-c3e3-3482-97ce-72a0911118f4",
+    "name": "Agent3_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c4839024-0c61-351d-ac0d-9c7f95e1c91b",
+    "name": "Agent13",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "51dfd5db-7e5c-30b2-b68d-b9ab1e45fc08",
+    "name": "all",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "81b815ab-60ca-3771-ad89-95bc57686fde",
+    "name": "Agent9_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1875357c-c4f7-35ca-8e1b-2db9b62e9228",
+    "name": "Agent27",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5d9557b8-2217-31d6-a593-04b9db2268ff",
+    "name": "Agent10_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0cd3ae54-bc40-3e33-aaf3-c4c7580ada3a",
+    "name": "Agent15",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "98ac1ddc-c136-359d-b672-0553aa204450",
+    "name": "Agent3",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d97c84e6-c5f7-3ac3-a986-f2652dd4d293",
+    "name": "Agent28",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c35cf549-91be-38db-aee0-13f37d4448a1",
+    "name": "Agent4",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "872a418a-e639-3eef-bb6b-4c27aa7669d1",
+    "name": "Agent20",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "65ba0b98-ce43-35c6-a534-e6f74b391bc7",
+    "name": "Agent6",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fcb1ae87-a869-3eac-9684-264ce4025e0b",
+    "name": "Agent14_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c5eff1bd-7bd6-3fa4-9fa6-2b2b16aee984",
+    "name": "Agent8_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "49c169fe-9b24-3f23-8aa3-5a0174215d7c",
+    "name": "Agent16",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c224dbc6-d6c8-3147-960c-bbce82e2a6d2",
+    "name": "Agent7",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9f818d57-7eba-3112-9e40-4c3db540a6ad",
+    "name": "Agent9",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e5313b39-4eb0-3119-966e-7d2fb9ede361",
+    "name": "Agent2_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f9ad2107-a641-37e7-919d-46cbc005183e",
+    "name": "Agent18",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b6d063a7-9f45-385c-8175-04cc889a2d2e",
+    "name": "Agent5_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8ef163ca-6042-3f03-b6fc-7f16ff916c15",
+    "name": "ChilledVibe",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2b7c60d8-c3e7-3a00-93ab-abbbf871e332",
+    "name": "Agent13_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d47e192b-b56e-35ac-af24-731a0d6ee686",
+    "name": "Agent7_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b00b7317-cb7a-3cf3-a641-c445489be0fd",
+    "name": "Agent23",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "59bf8e36-702c-3ab6-821e-04e3fed76bf6",
+    "name": "Agent21",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bc9a1ba9-ecc9-31bf-b040-3ef2951fe7a0",
+    "name": "Agent22",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2436db82-596c-3488-8939-bd1b63cf0ecc",
+    "name": "Agent15_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e2ede540-9999-33c4-b548-e7fa152efb54",
+    "name": "Agent10",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "92a1c421-1b01-331d-9dd5-77309733d6a7",
+    "name": "Agent16_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d2794fb3-5f2d-3ab6-84c6-1873925c8212",
+    "name": "Agent19",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7539a4ac-6a73-3d98-a3c4-0940abb35130",
+    "name": "Agent30",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2c4857fe-d041-3db0-a269-ad16ab42caaf",
+    "name": "Agent14",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "815dd941-6b13-34a2-b0ae-959af961cdb8",
+    "name": "Agent12",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a1b76809-fa46-3ff3-8a9c-a2bb3a38dd56",
+    "name": "Agent31",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fdc192d5-184b-3b4c-ab78-4cbf59918726",
+    "name": "Agent5",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b17dd9e2-97c3-37f7-8914-64daaba92107",
+    "name": "Agent1_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f1931110-6374-380a-9419-4d3e137083cd",
+    "name": "Agent4_Gen1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dd5437ae-b206-38d7-b029-cd63d7bea05c",
+    "name": "Agent29",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ebab9235-e03a-395f-ac41-383e76023cd9",
+    "name": "Agent11",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cafd51b1-61d8-3f27-86b1-12fed1bd661c",
+    "name": "Agent24",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d8c73d27-f93a-35b4-98a4-c0dbbaeee2f7",
+    "name": "Agent25",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cff9c9a3-bbbf-36f9-b7e8-1779331a9b0f",
+    "name": "Agent17",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "087db60a-d961-303b-a3b2-b10087793e5a",
+    "name": "Agent8",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cc2b4d57-0dd6-3020-ba4a-76417faa8403",
+    "name": "Agent26",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

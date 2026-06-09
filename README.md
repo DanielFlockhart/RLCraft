@@ -1,4 +1,4 @@
-# AI Minecraft Hub
+# AI Minecraft
 
 This folder is the shared workspace for AI and Minecraft experiments.
 
